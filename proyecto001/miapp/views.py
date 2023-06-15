@@ -8,7 +8,7 @@ layout = """
 <a href="/inicio"> Inicio</a>
 </li>
 <li>
-<a href="/saludo"> Mensaje de Saludo</a>
+<a href="/saludo"> Mensaje de Saludos</a>
 </li>
 <li>
 <a href="/rango"> Mostrar Números [a,b]</a>
